@@ -33,8 +33,8 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-<br><br>
 
+<br><br>
 
 <b>Currently studying</b>
 <br>
@@ -55,7 +55,8 @@ Backend Development • Software Architecture • Business Rules • APIs
 <b>Experience</b>
 <br>
 IT • Automation • Artificial Intelligence • AI Agents
-<br>
+<br><br>
+
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/andre-masoni/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
