@@ -2,17 +2,25 @@
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.
     <br>
-    I'm an Analysis and Systems Development student from Brazil.
+    Analysis and Systems Development student from Brazil.
     <br>
     Backend Developer focused on Java, Spring Boot, REST APIs and Docker.
-    <br>
-    Currently working in IT at Clariens and studying software development, automation and Artificial Intelligence.
   </samp>
 
   <br>
 
   <img src="./hollow-knight.gif" width="200"/>
 </p>
+
+<details align="center">
+
+<summary><b><samp> Light bonfire </samp></b></summary>
+
+<samp>
+
+<b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2></b>
+
+<img src="./bonfire.gif" width="200"/>
 
 <br><br>
 
