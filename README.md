@@ -1,14 +1,14 @@
 <h1 align="center">
   <samp>
-    Hello there, I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>!
+    Olá, eu sou <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>!
   </samp>
 </h1>
 
 <h4 align="center">
   <samp>
-    I'm an Analysis and Systems Development student from Brazil.
+    Sou estudante de Análise e Desenvolvimento de Sistemas no Brasil.
     <br>
-    Backend Developer focused on Java, Spring Boot, REST APIs and Docker.
+    Desenvolvedor Backend com foco em Java, Spring Boot, APIs REST e Docker.
   </samp>
 </h4>
 
@@ -17,11 +17,11 @@
 </p>
 
 <details align="center">
-  <summary><b><samp> Light bonfire </samp></b></summary>
+  <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
 
 <samp>
 
-<b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2></b>
+<b><h2 style="color: #fc6203">F O G U E I R A &nbsp; A C E S A !</h2></b>
 
 <img src="./bonfire.gif" width="200"/>
 
@@ -33,26 +33,37 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+
 <br><br>
-<b>Currently studying</b>
+
+<b>Atualmente estudando</b>
 <br>
-Java • Spring Boot • REST APIs • Docker • Spring Security • JWT
+Java • Spring Boot • APIs REST • Docker • Spring Security • JWT
+
 <br><br>
-Inventory • Transactions • Concurrency • Security • Clean Architecture
+
+Inventário • Transações • Concorrência • Segurança • Clean Architecture
+
 <br><br>
-<b>Education</b>
+
+<b>Formação</b>
 <br>
-Analysis and Systems Development — UNINTER
+Análise e Desenvolvimento de Sistemas — UNINTER
 <br>
-Expected graduation: July 2028
+Previsão de conclusão: Julho de 2028
+
 <br><br>
-<b>Focus</b>
+
+<b>Foco</b>
 <br>
-Backend Development • Software Architecture • Business Rules • APIs
+Desenvolvimento Backend • Arquitetura de Software • Regras de Negócio • APIs
+
 <br><br>
-<b>Experience</b>
+
+<b>Experiência</b>
 <br>
-IT • Automation • Artificial Intelligence • AI Agents
+TI • Automação • Inteligência Artificial • Agentes de IA
+
 <br><br>
 
 <p align="center">
