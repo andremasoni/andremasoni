@@ -47,7 +47,6 @@ Análise e Desenvolvimento de Sistemas — UNINTER
 Previsão de conclusão: Julho de 2028
 <br><br>
 <b>Foco</b>
-
 <br>
 Desenvolvimento Backend • Arquitetura de Software • Regras de Negócio • APIs
 <br><br>
