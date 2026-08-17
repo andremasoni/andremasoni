@@ -1,15 +1,21 @@
 <p align="center">
+
+  <h2 align="center">
+    <samp>
+      Hello there! I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.
+    </samp>
+  </h2>
+
   <samp>
-    <h2 align="center"><samp>Hello there! I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.</samp></h2>
-    <br>
     I'm an Analysis and Systems Development student from Brazil.
     <br>
-   BackBackend Developer focused on Java, Spring Boot, REST APIs and Docker
+    Backend Developer focused on Java, Spring Boot, REST APIs and Docker.
   </samp>
 
-  <br>
+  <br><br>
 
   <img src="./hollow-knight.gif" width="200"/>
+
 </p>
 
 <details align="center">
