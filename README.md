@@ -1,6 +1,6 @@
 <h1 align="center">
   <samp>
-    Olá, viajante! <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a>por aqui</b>.
+    Olá, viajante! <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a> por aqui</b>.
   </samp>
 </h1>
 
