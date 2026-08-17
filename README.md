@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 <br>
 <b>Atualmente estudando</b>
-<br><br>
 Java • Spring Boot • APIs REST • Docker • Spring Security • JWT
 
 <b>Formação</b>
