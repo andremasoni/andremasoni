@@ -1,11 +1,10 @@
-<p align="center">
+<h2 align="center">
+  <samp>
+    Hello there! I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.
+  </samp>
+</h2>
 
-  <h2 align="center">
-    <samp>
-      Hello there! I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.
-    </samp>
-  </h2>
-
+<div align="center">
   <samp>
     I'm an Analysis and Systems Development student from Brazil.
     <br>
@@ -15,6 +14,7 @@
   <br><br>
 
   <img src="./hollow-knight.gif" width="200"/>
+</div>
 
 </p>
 
