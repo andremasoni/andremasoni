@@ -52,7 +52,7 @@ Desenvolvimento Backend • Arquitetura de Software • Regras de Negócio • A
 <b>Experiência</b>
 <br>
 TI • Automação • Inteligência Artificial • Agentes de IA
-<br>
+<br><br>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/andre-masoni/">
