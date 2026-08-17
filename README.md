@@ -12,10 +12,9 @@
   </samp>
 </h4>
 
-<p align="center">
+<div align="center">
   <img src="./hollow-knight.gif" width="200"/>
-</p>
-
+</div>
 <details align="center">
   <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
 
@@ -46,10 +45,12 @@ Análise e Desenvolvimento de Sistemas — UNINTER
 <br>
 Previsão de conclusão: Julho de 2028
 <br><br>
+
 <b>Foco</b>
 <br>
 Desenvolvimento Backend • Arquitetura de Software • Regras de Negócio • APIs
 <br><br>
+
 <b>Experiência</b>
 <br>
 TI • Automação • Inteligência Artificial • Agentes de IA
