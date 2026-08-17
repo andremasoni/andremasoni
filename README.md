@@ -65,4 +65,4 @@ IT • Automation • Artificial Intelligence • AI Agents
 </samp>
 </details>
 
-⭐️ From [andremasoni](https://github.com/andremasoni)
+[andremasoni](https://github.com/andremasoni)
