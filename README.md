@@ -1,6 +1,6 @@
 <h1 align="center">
   <samp>
-    Hello there! I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>!
+    Hello there, I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>!
   </samp>
 </h1>
 
