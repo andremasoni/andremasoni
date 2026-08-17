@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <h3>Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b></h3>.
+    <h2 align="center"><samp>Hello there! I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.</samp></h2>
     <br>
     I'm an Analysis and Systems Development student from Brazil.
     <br>
