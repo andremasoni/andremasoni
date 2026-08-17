@@ -4,21 +4,20 @@
   </samp>
 </h2>
 
-<div align="center">
+<h4 align="center">
   <samp>
     I'm an Analysis and Systems Development student from Brazil.
     <br>
     Backend Developer focused on Java, Spring Boot, REST APIs and Docker.
   </samp>
+</h4>
 
-  <br><br>
-
+<p align="center">
   <img src="./hollow-knight.gif" width="200"/>
-</div>
 </p>
-<details align="center">
 
-<summary><b><samp> Light bonfire </samp></b></summary>
+<details align="center">
+  <summary><b><samp> Light bonfire </samp></b></summary>
 
 <samp>
 
