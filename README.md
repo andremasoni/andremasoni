@@ -37,22 +37,23 @@
 <br><br>
 
 <b>Atualmente estudando</b>
+
 <br>
 Java • Spring Boot • APIs REST • Docker • Spring Security • JWT
-<br><br>
-Inventário • Transações • Concorrência • Segurança • Clean Architecture
-<br><br>
 <b>Formação</b>
+
 <br>
 Análise e Desenvolvimento de Sistemas — UNINTER
 <br>
 Previsão de conclusão: Julho de 2028
 <br><br>
 <b>Foco</b>
+
 <br>
 Desenvolvimento Backend • Arquitetura de Software • Regras de Negócio • APIs
 <br><br>
 <b>Experiência</b>
+
 <br>
 TI • Automação • Inteligência Artificial • Agentes de IA
 
