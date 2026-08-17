@@ -16,7 +16,7 @@
   <img src="./hollow-knight.gif" width="200"/>
 </div>
 <details align="center">
-  <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
+  <summary><b><samp> ᴀ͎ᴄ͎ᴇ͎ɴ͎ᴅ͎ᴇ͎ʀ͎ ͎ғ͎ᴏ͎ɢ͎ᴜ͎ᴇ͎ɪ͎ʀ͎ᴀ͎ </samp></b></summary>
 
 <samp>
 
