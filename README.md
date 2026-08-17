@@ -1,8 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   <samp>
     Hello there! I'm <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.
   </samp>
-</h2>
+</h1>
 
 <h4 align="center">
   <samp>
