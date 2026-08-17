@@ -16,11 +16,11 @@
   <img src="./hollow-knight.gif" width="200"/>
 </div>
 <details align="center">
-  <summary><b><samp> ᴀ͎ᴄ͎ᴇ͎ɴ͎ᴅ͎ᴇ͎ʀ͎ ͎ғ͎ᴏ͎ɢ͎ᴜ͎ᴇ͎ɪ͎ʀ͎ᴀ͎ </samp></b></summary>
+  <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
 
 <samp>
 
-<b><h2 style="color: #fc6203">F O G U E I R A &nbsp; A C E S A !</h2></b>
+<b><h2 style="color: #fc6203">ｆｏｇｕｅｉｒａ&nbsp;ａｃｅｓａ！</h2></b>
 
 <img src="./bonfire.gif" width="200"/>
 
