@@ -13,7 +13,7 @@
 </h4>
 
 <div align="center">
-  <img src="./hollow-knight.gif" width="200"/>
+  <img src="./hollow-knight1.gif" width="200"/>
 </div>
 <details align="center">
   <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
