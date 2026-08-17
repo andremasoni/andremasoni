@@ -48,13 +48,11 @@ Previsão de conclusão: Julho de 2028
 <b>Foco</b>
 <br>
 Desenvolvimento Backend • Arquitetura de Software • Regras de Negócio • APIs
-<br><br>
 
 <b>Experiência</b>
 <br>
 TI • Automação • Inteligência Artificial • Agentes de IA
-
-<br><br>
+<br>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/andre-masoni/">
