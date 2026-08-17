@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.
+    Hello there! I'm <h3><b><a rel="nofollow noopener noreferrer" target="_blank" href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b></h3></b>.
     <br>I'm an Analysis and Systems Development student from Brazil.<br>
     <br>Backend Developer focused on Java, Spring Boot, REST APIs and Docker.<br>
     <br>Currently working in IT at Clariens and studying software development, automation and Artificial Intelligence.<br>
