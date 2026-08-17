@@ -37,11 +37,10 @@
 <br><br>
 
 <b>Atualmente estudando</b>
-
 <br>
 Java • Spring Boot • APIs REST • Docker • Spring Security • JWT
-<b>Formação</b>
 
+<b>Formação</b>
 <br>
 Análise e Desenvolvimento de Sistemas — UNINTER
 <br>
