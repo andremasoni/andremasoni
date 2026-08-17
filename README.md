@@ -15,9 +15,7 @@
 
   <img src="./hollow-knight.gif" width="200"/>
 </div>
-
 </p>
-
 <details align="center">
 
 <summary><b><samp> Light bonfire </samp></b></summary>
