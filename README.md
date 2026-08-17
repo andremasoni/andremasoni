@@ -33,37 +33,29 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-
 <br>
+
 
 <b>Currently studying</b>
 <br>
 Java • Spring Boot • REST APIs • Docker • Spring Security • JWT
-
 <br><br>
-
 <b>Current Project</b>
 <br>
 Warehouse Management System
 <br>
 Inventory • Transactions • Concurrency • Security • Clean Architecture
-
 <br><br>
-
 <b>Education</b>
 <br>
 Analysis and Systems Development — UNINTER
 <br>
 Expected graduation: July 2028
-
 <br><br>
-
 <b>Focus</b>
 <br>
 Backend Development • Software Architecture • Business Rules • APIs
-
 <br><br>
-
 <b>Experience</b>
 <br>
 IT • Automation • Artificial Intelligence • AI Agents
