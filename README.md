@@ -1,6 +1,6 @@
 <h1 align="center">
   <samp>
-    Olá, eu sou <b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>!
+    Olá, viajante!<b><a href="https://andremasoni.github.io/portfolio-andrem/">André Masoni por aqui.</a></b>!
   </samp>
 </h1>
 
@@ -51,7 +51,6 @@ Previsão de conclusão: Julho de 2028
 Desenvolvimento Backend • Arquitetura de Software • Regras de Negócio • APIs
 <br><br>
 <b>Experiência</b>
-
 <br>
 TI • Automação • Inteligência Artificial • Agentes de IA
 
