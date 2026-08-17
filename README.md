@@ -55,7 +55,7 @@ Backend Development • Software Architecture • Business Rules • APIs
 <b>Experience</b>
 <br>
 IT • Automation • Artificial Intelligence • AI Agents
-
+<br>
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/andre-masoni/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
