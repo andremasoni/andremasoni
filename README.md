@@ -1,10 +1,10 @@
 <p align="center">
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b>.
+    <h3>Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b></h3>.
     <br>
-    Analysis and Systems Development student from Brazil.
+    I'm an Analysis and Systems Development student from Brazil.
     <br>
-    Backend Developer focused on Java, Spring Boot, REST APIs and Docker.
+   BackBackend Developer focused on Java, Spring Boot, REST APIs and Docker
   </samp>
 
   <br>
