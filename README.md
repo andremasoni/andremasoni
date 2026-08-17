@@ -2,9 +2,9 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://andremasoni.github.io/portfolio-andrem/">André Masoni</a></b><</b>!
-    I'm an Analysis and Systems Development student from Brazil.<br>
-    Backend Developer focused on Java, Spring Boot, REST APIs and Docker.<br>
-    Currently working in IT at Clariens and studying software development, automation and Artificial Intelligence.<br>
+    I'm an Analysis and Systems Development student from Brazil.
+    Backend Developer focused on Java, Spring Boot, REST APIs and Docker.
+    Currently working in IT at Clariens and studying software development, automation and Artificial Intelligence.
   </samp>
 
   <img src="./hollow-knight.gif" width="200"/>
