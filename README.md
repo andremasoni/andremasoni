@@ -16,14 +16,10 @@
   <img src="./darksouls1.gif" width="200"/>
 </div>
 <details align="center">
-<summary>
-</p>
-  
 <details align="center">
-<summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
-<samp>
-<samp>
 
+<summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
+  
 <b><h2 style="color: #fc6203">ｆｏｇｕｅｉｒａ&nbsp;ａｃｅｓａ！</h2></b>
 
 <img src="./bonfire.gif" width="200"/>
