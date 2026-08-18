@@ -16,7 +16,17 @@
   <img src="./darksouls1.gif" width="200"/>
 </div>
 <details align="center">
-  <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
+<summary>
+  <b>
+    <samp style="
+      background: linear-gradient(90deg, #fc6203, #ffffff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    ">
+      ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ
+    </samp>
+  </b>
+</summary>
 
 <samp>
 
