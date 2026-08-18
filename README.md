@@ -18,7 +18,8 @@
 
 <details align="center">
   <summary><b><samp> Acender fogueira </samp></b></summary>
-<samp> 
+  <samp>  
+  <br> 
   
 <b><h2 style="color: #fc6203">ｆｏｇｕｅｉｒａ&nbsp;ａｃｅｓａ！</h2></b>
 
