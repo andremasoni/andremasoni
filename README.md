@@ -17,8 +17,8 @@
 </div>
 <details align="center">
 <summary>
-  <b>
 </p>
+  
 <details align="center">
 <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
 <samp>
