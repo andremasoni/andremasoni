@@ -15,8 +15,6 @@
 <div align="center">
   <img src="./darksouls1.gif" width="200"/>
 </div>
-<details align="center">
-<details align="center">
 
 <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
   
