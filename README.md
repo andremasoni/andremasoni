@@ -13,7 +13,7 @@
 </h4>
 
 <div align="center">
-  <img src="./darksouks1.gif" width="200"/>
+  <img src="./darksouls1.gif" width="200"/>
 </div>
 <details align="center">
   <summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
