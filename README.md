@@ -18,28 +18,10 @@
 <details align="center">
 <summary>
   <b>
-<svg width="230" height="30" viewBox="0 0 230 30"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fc6203"/>
-      <stop offset="50%" stop-color="#ff9d5c"/>
-      <stop offset="100%" stop-color="#ffffff"/>
-    </linearGradient>
-  </defs>
-
-  <text
-    x="0"
-    y="21"
-    font-family="monospace"
-    font-size="16"
-    font-weight="bold"
-    fill="url(#gradient)">
-    ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ
-  </text>
-
-
+</p>
+<details align="center">
+<summary><b><samp> ᴀᴄᴇɴᴅᴇʀ ғᴏɢᴜᴇɪʀᴀ </samp></b></summary>
+<samp>
 <samp>
 
 <b><h2 style="color: #fc6203">ｆｏｇｕｅｉｒａ&nbsp;ａｃｅｓａ！</h2></b>
