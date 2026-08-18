@@ -40,7 +40,7 @@ Java • Spring Boot • APIs REST • Docker • Spring Security • JWT
 
 <b>Formação</b>
 <br>
-Análise e Desenvolvimento de Sistemas — UNINTER
+Análise e Desenvolvimento de Sistemas - UNINTER
 <br>
 Previsão de conclusão: Julho de 2028
 
