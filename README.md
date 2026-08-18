@@ -62,5 +62,3 @@ TI • Automação • Inteligência Artificial • Agentes de IA
 
 </samp>
 </details>
-
-[andremasoni](https://github.com/andremasoni)
