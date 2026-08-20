@@ -20,12 +20,12 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/andre-masoni/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/andre-masoni/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 </p>
 
 > Desenvolvedor Backend em formação com foco em Java, Spring Boot e APIs REST. Experiência prática com PostgreSQL, Docker, Git e desenvolvimento de aplicações backend. Estudante de Análise e Desenvolvimento de Sistemas, aprofundando conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
