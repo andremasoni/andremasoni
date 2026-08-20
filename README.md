@@ -1,6 +1,8 @@
 # Olá, eu sou o André! 👋
-<br>
+
 > Desenvolvedor Backend em formação com foco em Java, Spring Boot e APIs REST. Experiência prática com PostgreSQL, Docker, Git e desenvolvimento de aplicações backend. Estudante de Análise e Desenvolvimento de Sistemas, aprofundando conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
+
+
 ## 🛠️ Tecnologias
 
 <p align="left">
