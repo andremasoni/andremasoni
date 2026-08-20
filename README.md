@@ -1,8 +1,7 @@
 # Olá, eu sou o André! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Backend Java**.
+> Desenvolvedor Backend em formação com foco em Java, Spring Boot e APIs REST. Experiência prática com PostgreSQL, Docker, Git e desenvolvimento de aplicações backend. Estudante de Análise e Desenvolvimento de Sistemas, aprofundando conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
 
-Atualmente desenvolvo projetos com **Java, Spring Boot, APIs REST, PostgreSQL e Docker**.
 
 ## 🛠️ Tecnologias
 
