@@ -69,21 +69,11 @@ API para estudos de autenticação e autorização com Spring Security e JWT.
 
 `Java` `Spring Boot` `Spring Security` `JWT`
 
-## GitHub
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andremasoni&theme=github_dark"
-    height="160"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andremasoni&theme=github_dark"
-    height="160"
-    alt="Repos por linguagem"
-  />
-</p>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andremasoni&theme=github_dark"
+  width="100%"
+/>
 
 <p align="center">
   <img
