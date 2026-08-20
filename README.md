@@ -69,13 +69,12 @@ API para estudos de autenticação e autorização com Spring Security e JWT.
 
 `Java` `Spring Boot` `Spring Security` `JWT`
 
-## Atividade
+## GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=andremasoni&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Gráfico de atividade"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andremasoni&theme=github_dark"
+    alt="GitHub Profile Summary"
   />
 </p>
 
