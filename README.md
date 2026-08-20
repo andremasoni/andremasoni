@@ -30,12 +30,12 @@
 
 > Desenvolvedor Backend em formação com foco em Java, Spring Boot e APIs REST. Experiência prática com PostgreSQL, Docker, Git e desenvolvimento de aplicações backend. Estudante de Análise e Desenvolvimento de Sistemas, aprofundando conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
 
-## Tecnologias
+## Stack atual
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,spring,maven,postgres,docker,git,github,githubactions,idea,postman&theme=dark"
+      src="https://skillicons.dev/icons?i=java,spring,maven,docker,git,idea&theme=dark"
       alt="Tecnologias"
     />
   </a>
