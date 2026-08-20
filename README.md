@@ -1,8 +1,6 @@
-<h1 align="center">Olá, eu sou o André! 👋</h1>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=André+Masoni"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=7FA88A&center=true&vCenter=true&width=700&lines=Andr%C3%A9+Masoni;Backend+Developer;Java+%7C+Spring+Boot+%7C+APIs+REST"
     alt="Typing SVG"
   />
 </p>
