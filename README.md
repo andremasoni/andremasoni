@@ -1,64 +1,45 @@
-<h1 align="center">
-  <samp>
-    Olá, viajante! <b><a href="https://andremasoni.github.io/portfolio-andrem/">André</a> por aqui</b>.
-  </samp>
-</h1>
+# Olá, eu sou o André! 👋
 
-<h4 align="center">
-  <samp>
-    Sou estudante de Análise e Desenvolvimento de Sistemas no Brasil.
-    <br>
-    Desenvolvedor Backend com foco em Java, Spring Boot, APIs REST e Docker.
-  </samp>
-</h4>
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Backend Java**.
 
-<div align="center">
-  <img src="./darksouls1.gif" width="200"/>
-</div>
+Atualmente desenvolvo projetos com **Java, Spring Boot, APIs REST, PostgreSQL e Docker**, buscando evoluir meus conhecimentos em desenvolvimento e engenharia de software.
 
-<details align="center">
-  <summary><b><samp> 𝖺𝖼𝖾𝗇𝖽𝖾𝗋 𝖿𝗈𝗀𝗎𝖾𝗂𝗋𝖺 </samp></b></summary>
-  <samp>  
-  <br> 
-  
-<b><h2 style="color: #fc6203">ｆｏｇｕｅｉｒａ&nbsp;ａｃｅｓａ！</h2></b>
+## 🛠️ Tecnologias
 
-<img src="./bonfire.gif" width="200"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-
-<br><br>
-
-<b>Atualmente estudando</b>
-<br>
-Java • Spring Boot • APIs REST • Docker • Spring Security • JWT
-
-<b>Formação</b>
-<br>
-Análise e Desenvolvimento de Sistemas - UNINTER
-<br>
-Previsão de conclusão: Julho de 2028
-
-<b>Foco</b>
-<br>
-Desenvolvimento Backend • Arquitetura de Software • Regras de Negócio • APIs
-
-<b>Experiência</b>
-<br>
-TI • Automação • Inteligência Artificial • Agentes de IA
-<br><br>
-
-<p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/andre-masoni/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,docker,git,github,githubactions,idea,postman&theme=dark" />
   </a>
 </p>
 
-</samp>
-</details>
+## 📚 Atualmente estudando
+
+* Java e Spring Boot
+* APIs REST
+* SQL e PostgreSQL
+* Docker
+* Arquitetura e boas práticas
+
+## 🚀 Projetos
+
+**[Warehouse Management System](https://github.com/andremasoni/warehouse-management-system)**
+Sistema backend para gerenciamento de estoque, depósitos, movimentações e pedidos.
+
+**[Order Management API](https://github.com/andremasoni/order-management-api)**
+API REST para gerenciamento de pedidos e regras de negócio.
+
+**[Spring Auth API](https://github.com/andremasoni/spring-auth-api)**
+API para estudos de autenticação e autorização com Spring Security e JWT.
+
+## 📊 GitHub
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=andremasoni&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremasoni&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/andre-masoni/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
+</a>
