@@ -2,7 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Backend Java**.
 
-Atualmente desenvolvo projetos com **Java, Spring Boot, APIs REST, PostgreSQL e Docker**, buscando evoluir meus conhecimentos em desenvolvimento e engenharia de software.
+Atualmente desenvolvo projetos com **Java, Spring Boot, APIs REST, PostgreSQL e Docker**.
 
 ## 🛠️ Tecnologias
 
@@ -22,21 +22,17 @@ Atualmente desenvolvo projetos com **Java, Spring Boot, APIs REST, PostgreSQL e 
 
 ## 🚀 Projetos
 
-**[Warehouse Management System](https://github.com/andremasoni/warehouse-management-system)**
+### [Warehouse Management System](https://github.com/andremasoni/warehouse-management-system)
+
 Sistema backend para gerenciamento de estoque, depósitos, movimentações e pedidos.
 
-**[Order Management API](https://github.com/andremasoni/order-management-api)**
+### [Order Management API](https://github.com/andremasoni/order-management-api)
+
 API REST para gerenciamento de pedidos e regras de negócio.
 
-**[Spring Auth API](https://github.com/andremasoni/spring-auth-api)**
+### [Spring Auth API](https://github.com/andremasoni/spring-auth-api)
+
 API para estudos de autenticação e autorização com Spring Security e JWT.
-
-## 📊 GitHub
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=andremasoni&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremasoni&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ## 📫 Contato
 
