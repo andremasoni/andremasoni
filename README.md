@@ -73,8 +73,15 @@ API para estudos de autenticação e autorização com Spring Security e JWT.
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andremasoni&theme=github_dark"
-    alt="GitHub Profile Summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andremasoni&theme=github_dark"
+    height="160"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andremasoni&theme=github_dark"
+    height="160"
+    alt="Repos por linguagem"
   />
 </p>
 
